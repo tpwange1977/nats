@@ -1,0 +1,8 @@
+fastapi
+nats-python
+nats-py
+requests
+
+
+
+#python.exe -m pip install --upgrade pip
